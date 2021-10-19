@@ -1,0 +1,4 @@
+com/example/tablefortheinfo/MainActivity.java
+ com.example.tablefortheinfo.MainActivity
+com/example/tablefortheinfo/BuildConfig.java
+ com.example.tablefortheinfo.BuildConfig
